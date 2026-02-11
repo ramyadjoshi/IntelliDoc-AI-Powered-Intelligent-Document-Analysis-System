@@ -360,7 +360,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ If you find IntelliDoc useful, please consider giving it a star!
 
-**Made with ❤️ for multilingual document analysis**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ramyadjoshi.intellidoc)
 
