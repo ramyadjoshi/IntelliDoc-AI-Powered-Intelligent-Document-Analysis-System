@@ -350,7 +350,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Ramya D Joshi** - [GitHub Profile](https://github.com/ramyadjoshi)  
-**Shakuntala K Pawar** - [GitHub Profile](https://github.com/shakuntalapawar)
+**Shakuntala K Pawar** - [GitHub Profile](https://github.com/shakuntala-pawar)
 
 **Project Repository:** [IntelliDoc](https://github.com/ramyadjoshi/IntelliDoc-AI-Powered-Intelligent-Document-Analysis-System)
 
