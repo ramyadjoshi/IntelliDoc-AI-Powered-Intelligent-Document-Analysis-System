@@ -179,18 +179,18 @@ Examples:
 ┌─────────────────────────────────────────────────────────────┐
 │                     INDEXING PHASE                          │
 ├─────────────────────────────────────────────────────────────┤
-│  PDF/Image → OCR → Text Extraction → Chunking → TF-IDF     │
-│       ↓                                            ↓         │
+│  PDF/Image → OCR → Text Extraction → Chunking → TF-IDF      │
+│       ↓                                            ↓        │
 │  Tables/Charts Detection              FAISS Vector Store    │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
 │                      QUERY PHASE                            │
 ├─────────────────────────────────────────────────────────────┤
-│  User Query → TF-IDF Vector → FAISS Search → Top-K Chunks  │
-│       ↓                                            ↓         │
+│  User Query → TF-IDF Vector → FAISS Search → Top-K Chunks   │
+│       ↓                                            ↓        │
 │  Language Detection              Context + Query → LLM      │
-│       ↓                                            ↓         │
+│       ↓                                            ↓        │
 │  Translation Request?                    Grounded Answer    │
 └─────────────────────────────────────────────────────────────┘
 ```
