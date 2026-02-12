@@ -255,8 +255,8 @@ pandas>=2.0.0          # Table handling
 
 **Developers:** Ramya D Joshi • Shakuntala K Pawar  
 **Mentor:** Dr. R. H. Goudar  
-**Institution:** [Your Institution Name]  
-**Project Phase:** Phase II - Major Project
+**Institution:** Visvesvaraya Technological University, Belagavi , Karnataka.  
+**Project Phase:**  Major Project
 
 ### Research Contributions
 1. **Smart OCR Detection** - Reduces processing time by auto-detecting OCR need
